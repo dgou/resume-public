@@ -10,26 +10,31 @@ Open Source Contributions to Jolly Good Toolkit: https://github.com/jolly-good-t
 
 Job History:
 
-2019-Present: TechMahindra 
+2021/07 - 2022/01: Bevy, Staff SDeT (Remote)
+* As 2nd QE to the company, helped to develp and refine QE tooling and test development processes.
+* Brought QE perspective to product development and team meetings.
+* Co-created browser-less client for doing functional and load testing of a video breakout rooms feature.
+
+2019 - 2021: TechMahindra
 * Continued work that I was doing at Rackspace.
 * Technical supervision of offshore SDETs: Technical/programming skills and test automation best practices.
 
-2016-2019: Rackspace - San Antonio, TX
-* Data Center Support - Internal DNS support APIs: (2018-present)
+2016 - 2019: Rackspace - San Antonio, TX
+* Data Center Support - Internal DNS support APIs: (2018 - 2019)
   * Testing based on the [behave](https://behave.readthedocs.io/en/stable/) BDD tool for Python.
   * Fixed fragile and aged-out tests for existing/legacy version 1 of the DNS API.
   * Created testing for version 2 of the DNS API:
       * v2 was a completely new and different API and required all new tests and testing architecture.
       * This is where mentoring offshore SDETs started.
       * End-to-end load testing and system latency testing, from API call to when data was available via the `bind` DNS server.
-* Internal Tooling for Sales: (2017-2018)
+* Internal Tooling for Sales: (2017 - 2018)
   * Did UI testing in Python and Selenium using OpenCAFE.
   * Helped team transition tests to BDD-testing in Python using `behave`.
-* Run Book Automation Project: (2016-2017)
+* Run Book Automation Project: (2016 - 2017)
   * Worked for a year coordinating offshore teams doing remote testing for new PCI compliant system.
   * Worked on back-end API testing and co-contributed to test-suite tooling that was shared with other internal product testing efforts.
 
-2005-2016: Seagate:  (TCGSWG -> Trusted Computing Group's Storage Working Group)
+2005 - 2016: Seagate:  (TCGSWG -> Trusted Computing Group's Storage Working Group)
 * Developed a C-based host-side TCGSWG Security Protocol library including sample programs.
   Library was used internally and also released to customers to assist with the adoption of Seagate's TCGSWG-based products.
 * Assisted in mult-year effort to bring the Security Team's 5+ years of requirements management to a larger internal audience.
@@ -50,7 +55,7 @@ Job History:
   training included TCGSWG protocols as well as basic programming skills.
 
 
-2003-2004: Seagate Research (Contractor): 
+2003 - 2004: Seagate Research (Contractor): 
 * Implemented and tested custom prototyping language for on-drive scripting.
 * Testing of prototype product simulator for pre-cursor to TCGSWG Security.
 
@@ -59,7 +64,7 @@ Job History:
   port of a large C++-based distributed transaction appplication from
   Encina/DCE under Unix to CICS/MQ on zOS (IBM Mainframe Unix).
 
-1993-2002: Transarc / IBM
+1993 - 2002: Transarc / IBM
 * Co-designed and supported a C++-based JavaScript scripting platform
   used to write and deliver product administration utilities for IBM
   Edge Server 2.0
@@ -73,7 +78,7 @@ Job History:
   Completed bringing the Encina Unix product packaging in-house.
 
 
-1988-1993: Production Systems Technologies, Inc.
+1988 - 1993: Production Systems Technologies, Inc.
 * Implemented a rules-based developement kit for AI production
   systems, including a complete C-language parser and runtime
   infrastructure for creating expert systems (called RAL). Provided
@@ -81,13 +86,13 @@ Job History:
 * Implemented and co-designed SunView, OpenLook, and Motif graphical
   interfaces for both RAL and OPS-83 debugging.
 
-1987-1988: Talisman Systems,
+1987 - 1988: Talisman Systems,
 * Led a team of three part-time consultants on a seven month off-site
   project to develop a 16-bit Microsoft Windows based program for
   entering, editing, and monitoring programs for a 6800-based factory
   floor monitoring system.
 
-1980-1987: Carnegie Mellon University, Dept of Computer Science
+1980 - 1987: Carnegie Mellon University, Dept of Computer Science
 * Designed and implemented a linker for the C programming language
   and completed implemention of of the process loader for the ACCENT
   operating system (A precursor to Mach) enabling the native use
