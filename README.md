@@ -1,8 +1,7 @@
 **Douglas Philips** -- 412-478-6368 -- dgou@mac.com
 -- [Linkedin](https://www.linkedin.com/in/douglas-philips-051808143) -- https://www.github.com/dgou
 
-Proficient: Python, C, Bash; Familiar: GitHub Actions, C++, JavaScript, Go
-
+Proficient: Python, C, Bash; Familiar: GitHub Actions, C++, JavaScript, Go<br/>
 Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-toolbelt
 <!--
 * Created [layered-config](https://github.com/jolly-good-toolbelt/layered-config),
@@ -13,21 +12,26 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
 
 2022/02 - Present: JumpCloud, Senior SDeT (Remote)
 <!-- * Early 2025 - Present -->
-  * Providing Testing Infrastructure and support for Engineering Teams owning their own Quality.
+  * Providing Testing Infrastructure and support for Engineering Teams owning their own Quality:
+    * CI pipeline testing on PRs pre-merge; BDD/Gherkin for acceptance tests implemented in Pytest and Cypress.
+      Test metrics collection for visibility into coverage; % of Automated vs. Manual tests, etc.
 <!-- * Mid 2024 - Early 2025 -->
-  * Supported new Reports project: (many months underway when I joined)
+  * Supported new Reports project: (many months underway when I joined):
     * Captured/Backfilled requirements as tests using BDD/Gherkin, implemented with pytest-bdd.
     * Exploratory manual testing as product requirements evolved.
     * Created rate-limit verification load-tests in Python.
 <!-- * 2023-Mid 2024 -->
-  * Co-Created python framework for testing the Data Engineering team's existing Data Pipelines:<br/>
-    1. CDC data flowing from product DBs through Kafka into an ODS, and Snowflake.<br/>
-    2. Events flowing from services' SQS queues into customer-visible insights DB and Snowflake.
+  * Co-Created python framework for testing the Data Engineering team's existing Data Pipelines:
 
-    Tests are run in the staging environment: periodically to catch non-source-code changes, and when pipeline tooling is released. Results are posted to DataDog with monitors to notify the team (in slack) of failures.
+    * CDC data flowing from product DBs through Kafka into an ODS, and Snowflake.
+    * Events flowing from services' SQS queues into customer-visible insights DB and Snowflake.
+
+    Tests are run in the staging environment: periodically to catch environmental changes;
+    when Data Pipeline tooling is released to staging before going to prouction.
+    All test results are posted to DataDog with monitors to notify the team (in slack) of failures.
 
 <!-- * 2022-Early 2023: -->
-  * Supported new project to bring AWS CloudWatch data into our unified platform:
+  * Supported new project to bring customer AWS CloudWatch data into our platform:
     * Helped define requirements the start (QE shift-left); did preliminary manual testing.
     * Wrote python testing framework to validate and load test the datapipeline from AWS Cloudwatch to our back-end systems.
 
@@ -36,11 +40,11 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
 * Brought QE perspective to product development and team meetings.
 * Co-created browser-less client for doing functional and load testing of a video breakout rooms feature.
 
-2019 - 2021: TechMahindra
+2019 - 2021: TechMahindra (Remote)
 * Continued work that I was doing at Rackspace.
 * Technical supervision of offshore SDETs: Technical/programming skills and test automation best practices.
 
-2016 - 2019: Rackspace - San Antonio, TX
+2016 - 2019: Rackspace - San Antonio, TX (Remote)
 * Data Center Support - Internal DNS support APIs: (2018 - 2019)
   * Testing based on the [behave](https://behave.readthedocs.io/en/stable/) BDD tool for Python.
   * Fixed fragile and aged-out tests for existing/legacy version 1 of the DNS API.
@@ -55,7 +59,7 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
   * Worked for a year coordinating offshore teams doing remote testing for new PCI compliant system.
   * Worked on back-end API testing and co-contributed to test-suite tooling that was shared with other internal product testing efforts.
 
-2005 - 2016: Seagate:  (TCGSWG -> Trusted Computing Group's Storage Working Group)
+2005 - 2016: Seagate: (Remote & Office)  (TCGSWG -> Trusted Computing Group's Storage Working Group)
 * Developed a C-based host-side TCGSWG Security Protocol library including sample programs.
   Library was used internally and also released to customers to assist with the adoption of Seagate's TCGSWG-based products.
 * Assisted in mult-year effort to bring the Security Team's 5+ years of requirements management to a larger internal audience.
@@ -76,16 +80,16 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
   training included TCGSWG protocols as well as basic programming skills.
 
 
-2003 - 2004: Seagate Research (Contractor): 
+2003 - 2004: Seagate Research (Contractor, On Site):
 * Implemented and tested custom prototyping language for on-drive scripting.
 * Testing of prototype product simulator for pre-cursor to TCGSWG Security.
 
-2003: IBM (Contractor)
+2003: IBM (Contractor, On Site)
 * Assisted an on-customer-site IBM team with a successful proof-of-concept
   port of a large C++-based distributed transaction appplication from
   Encina/DCE under Unix to CICS/MQ on zOS (IBM Mainframe Unix).
 
-1993 - 2002: Transarc / IBM
+1993 - 2002: Transarc / IBM (On Site)
 * Co-designed and supported a C++-based JavaScript scripting platform
   used to write and deliver product administration utilities for IBM
   Edge Server 2.0
@@ -99,6 +103,7 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
   Completed bringing the Encina Unix product packaging in-house.
 
 
+<!--
 1988 - 1993: Production Systems Technologies, Inc.
 * Implemented a rules-based developement kit for AI production
   systems, including a complete C-language parser and runtime
@@ -125,3 +130,5 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
   which allowed developers to watch, monitor, and alter message traffic
   between any two processes.
 * Performed Unix system administration for the department facilities staff.
+
+-->
