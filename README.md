@@ -16,9 +16,9 @@ Job History:
 * Mid 2024 - Early 2025
   * Supported new Reports project; wrote tests in Gherkin using pytest-bdd to backfill and capture requirements in testable form. (System was already fairly well along when I joined, so opportunity to shift-left was limited.)
 * 2023-Mid 2024
-  * Co-Created python testing framework (based on Cloud Insights work) for Data Engineering team's existing Data Pipelines.
-    Framework tested CDC data flowing from product DBs through Kafka into ODS and Snowflake plus
-    Events flowing from service SQS queues into customer visible insights DB and Snowflake.
+  * Co-Created python testing framework (based on Cloud Insights work) for Data Engineering team's existing Data Pipelines:
+    * CDC data flowing from product DBs through Kafka into ODS and Snowflake
+    * events flowing from services' SQS queues into customer-visible insights DB and Snowflake
 * 2022-Early 2023: New Project: Cloud Insights - bringing AWS CloudWatch data into our unified platform.
   * Worked with team (shift-left) to help define/refine requirements and do preliminary manual testing.
   * Wrote python testing framework to validate and load test the datapipeline from AWS Cloudwatch to our back-end systems
