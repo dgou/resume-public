@@ -1,9 +1,9 @@
 **Douglas Philips** -- 412-478-6368 -- dgou@mac.com
 -- [Linkedin](https://www.linkedin.com/in/douglas-philips-051808143) -- https://www.github.com/dgou
 
-Proficient: Python, C, Bash; Familiar: C++, JavaScript, Go
+Proficient: Python, C, Bash; Familiar: GitHub Actions, C++, JavaScript, Go
 
-Open Source Contributions to [Jolly Good Toolkit](https://github.com/jolly-good-toolbelt)
+Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-toolbelt
 <!--
 * Created [layered-config](https://github.com/jolly-good-toolbelt/layered-config),
   Co-contributor to most modules, esp. to [jgt_common Python utilities](https://github.com/jolly-good-toolbelt/jgt_common)
@@ -12,21 +12,24 @@ Open Source Contributions to [Jolly Good Toolkit](https://github.com/jolly-good-
 **Job History:**
 
 2022/02 - Present: JumpCloud, Senior SDeT (Remote)
-* Early 2025 - Present
-  * Providing Testing Infrastructure support for Engineering Teams charged with owning their own Quality Efforts.
-  * Mentoring other team members; reviewing test PRs for devs starting their "QE ownership" efforts.
-* Mid 2024 - Early 2025
-  * Supported new Reports project (I was brought in months after it had started, opportunity to left-shift was limited)
-    * wrote tests in Gherkin, implemented using pytest-bdd, to backfill and capture requirements in testable form.
-    * did small amount of exploratory manual testing as product requirements evolved.
-    * created small set of rate-limit verification load-tests.
-* 2023-Mid 2024
-  * Co-Created python framework (based on Cloud Insights work) for testing the Data Engineering team's existing Data Pipelines:
-    * CDC data flowing from product DBs through Kafka into ODS and Snowflake
-    * Events flowing from services' SQS queues into customer-visible insights DB and Snowflake
-* 2022-Early 2023: New Project: Cloud Insights - bringing AWS CloudWatch data into our unified platform.
-  * Worked with team (shift-left) to help define/refine requirements and do preliminary manual testing.
-  * Wrote python testing framework to validate and load test the datapipeline from AWS Cloudwatch to our back-end systems
+<!-- * Early 2025 - Present -->
+  * Providing Testing Infrastructure and support for Engineering Teams owning their own Quality.
+<!-- * Mid 2024 - Early 2025 -->
+  * Supported new Reports project: (many months underway when I joined)
+    * Captured/Backfilled requirements as tests using BDD/Gherkin, implemented with pytest-bdd.
+    * Exploratory manual testing as product requirements evolved.
+    * Created rate-limit verification load-tests in Python.
+<!-- * 2023-Mid 2024 -->
+  * Co-Created python framework for testing the Data Engineering team's existing Data Pipelines:<br/>
+    1. CDC data flowing from product DBs through Kafka into an ODS, and Snowflake.<br/>
+    2. Events flowing from services' SQS queues into customer-visible insights DB and Snowflake.
+
+    Tests are run in the staging environment: periodically to catch non-source-code changes, and when pipeline tooling is released. Results are posted to DataDog with monitors to notify the team (in slack) of failures.
+
+<!-- * 2022-Early 2023: -->
+  * Supported new project to bring AWS CloudWatch data into our unified platform:
+    * Helped define requirements the start (QE shift-left); did preliminary manual testing.
+    * Wrote python testing framework to validate and load test the datapipeline from AWS Cloudwatch to our back-end systems.
 
 2021/07 - 2022/01: Bevy, Staff SDeT (Remote)
 * As 2nd QE to the company, helped to develp and refine QE tooling and test development processes.
