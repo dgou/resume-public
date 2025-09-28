@@ -14,7 +14,7 @@ Job History:
 * Early 2025 - Present
   * Providing Testing Infrastructure support for Engineering Teams charged with owning their own Quality Efforts.
 * Mid 2024 - Early 2025
-  * Supported new Reports project; wrote tests in Gherkin using pytest-bdd to backfill capture requirements in testable form. (System was already fairly well along when I joined, so opportunity to shift-left was limited.)
+  * Supported new Reports project; wrote tests in Gherkin using pytest-bdd to backfill and capture requirements in testable form. (System was already fairly well along when I joined, so opportunity to shift-left was limited.)
 * 2023-Mid 2024
   * Co-Created python testing framework (based on Cloud Insights work) for Data Engineering team's existing Data Pipelines.
     Framework tested CDC data flowing from product DBs through Kafka into ODS and Snowflake plus
