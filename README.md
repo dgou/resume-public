@@ -1,14 +1,15 @@
-Douglas Philips -- 412-478-6368 -- dgou@mac.com
+**Douglas Philips** -- 412-478-6368 -- dgou@mac.com
 -- [Linkedin](https://www.linkedin.com/in/douglas-philips-051808143) -- https://www.github.com/dgou
 
-Proficient: Python, C, Bash; Familiar: C++, JavaScript, Java, Lisp, Forth
+Proficient: Python, C, Bash; Familiar: C++, JavaScript, Go
 
-Open Source Contributions to Jolly Good Toolkit: https://github.com/jolly-good-toolbelt
+Open Source Contributions to [Jolly Good Toolkit](https://github.com/jolly-good-toolbelt)
+<!--
 * Created [layered-config](https://github.com/jolly-good-toolbelt/layered-config),
   Co-contributor to most modules, esp. to [jgt_common Python utilities](https://github.com/jolly-good-toolbelt/jgt_common)
+-->
 
-
-Job History:
+**Job History:**
 
 2022/02 - Present: JumpCloud, Senior SDeT (Remote)
 * Early 2025 - Present
