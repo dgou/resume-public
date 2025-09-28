@@ -10,6 +10,19 @@ Open Source Contributions to Jolly Good Toolkit: https://github.com/jolly-good-t
 
 Job History:
 
+2022/02 - Present: JumpCLoud, Senior SDeT (Remote)
+* Early 2025 - Present
+  * Providing Testing Infrastructure support for Engineering Teams charged with owning their own Quality Efforts.
+* Mid 2024 - Early 2025
+  * Supported new Reports project, already underway; wrote tests in Gherkin using pytest-bdd to backfill capture requirements in testable form. (System was already fairly well along when I joined, so opportunity to shift-left was limited.)
+* 2023-Mid 2024
+  * Co-Created python testing framework (based on Cloud Insights work) for Data Engineering team's existing Data Pipelines.
+    Framework tested CDC data flowing from product DBs through Kafka into ODS and Snowflake plus
+    Events flowing from service SQS queues into customer visible insights DB and Snowflake.
+* 2022-Early 2023: New Project: Cloud Insights - bringing AWS CloudWatch data into our unified platform.
+  * Worked with team (shift-left) to help define/refine requirements and do preliminary manual testing.
+  * Wrote python testing framework to validate and load test the datapipeline from AWS Cloudwatch to our back-end systems
+
 2021/07 - 2022/01: Bevy, Staff SDeT (Remote)
 * As 2nd QE to the company, helped to develp and refine QE tooling and test development processes.
 * Brought QE perspective to product development and team meetings.
