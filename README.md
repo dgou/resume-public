@@ -13,27 +13,27 @@ Open Source Contributions to Jolly Good Toolbelt: https://github.com/jolly-good-
 2022/02 - Present: JumpCloud, Senior SDeT (Remote)
 <!-- * Early 2025 - Present -->
   * Providing Testing Infrastructure and support for Engineering Teams owning their own Quality:
-    * CI pipeline testing on PRs pre-merge; BDD/Gherkin for acceptance tests implemented in Pytest and Cypress.
-      Test metrics collection for visibility into coverage; % of Automated vs. Manual tests, etc.
+    * CI pipeline testing on PRs pre-merge; BDD/Gherkin for acceptance tests implemented in Pytest and Cypress;
+      Test Metrics collection for visibility into coverage, % of Automated vs. Manual tests, etc.
 <!-- * Mid 2024 - Early 2025 -->
   * Supported new Reports project: (many months underway when I joined):
     * Captured/Backfilled requirements as tests using BDD/Gherkin, implemented with pytest-bdd.
     * Exploratory manual testing as product requirements evolved.
     * Created rate-limit verification load-tests in Python.
 <!-- * 2023-Mid 2024 -->
-  * Co-Created python framework for testing the Data Engineering team's existing Data Pipelines:
-
+  * Co-Created python framework for testing the Data Engineering team's existing Data Pipelines.
+    Tests are run in the staging environment: periodically to catch environmental changes;
+    when Data Pipeline tooling is released to staging (before going to production); at will as needed.
+    All test results are posted to DataDog with monitors that notify the team (in slack) of failures.
+    Pipelines tested:
     * CDC data flowing from product DBs through Kafka into an ODS, and Snowflake.
     * Events flowing from services' SQS queues into customer-visible insights DB and Snowflake.
 
-    Tests are run in the staging environment: periodically to catch environmental changes;
-    when Data Pipeline tooling is released to staging before going to prouction.
-    All test results are posted to DataDog with monitors to notify the team (in slack) of failures.
-
 <!-- * 2022-Early 2023: -->
   * Supported new project to bring customer AWS CloudWatch data into our platform:
-    * Helped define requirements the start (QE shift-left); did preliminary manual testing.
+    * Helped define requirements from the start (QE shift-left); did preliminary manual testing.
     * Wrote python testing framework to validate and load test the datapipeline from AWS Cloudwatch to our back-end systems.
+    * Shift-left early testing found issues helping to indentify logic and performance concerns allowing the team to adjust quickly.
 
 2021/07 - 2022/01: Bevy, Staff SDeT (Remote)
 * As 2nd QE to the company, helped to develp and refine QE tooling and test development processes.
