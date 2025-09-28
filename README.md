@@ -13,6 +13,7 @@ Job History:
 2022/02 - Present: JumpCloud, Senior SDeT (Remote)
 * Early 2025 - Present
   * Providing Testing Infrastructure support for Engineering Teams charged with owning their own Quality Efforts.
+  * Mentoring other team members and devs starting their "QE ownership" efforts.
 * Mid 2024 - Early 2025
   * Supported new Reports project (I was brought in months after it had started)
     * wrote tests in Gherkin, impltemented with pytest-bdd, to backfill and capture requirements in testable form.
