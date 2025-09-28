@@ -10,7 +10,7 @@ Open Source Contributions to Jolly Good Toolkit: https://github.com/jolly-good-t
 
 Job History:
 
-2022/02 - Present: JumpCLoud, Senior SDeT (Remote)
+2022/02 - Present: JumpCloud, Senior SDeT (Remote)
 * Early 2025 - Present
   * Providing Testing Infrastructure support for Engineering Teams charged with owning their own Quality Efforts.
 * Mid 2024 - Early 2025
