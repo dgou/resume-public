@@ -13,12 +13,12 @@ Job History:
 2022/02 - Present: JumpCloud, Senior SDeT (Remote)
 * Early 2025 - Present
   * Providing Testing Infrastructure support for Engineering Teams charged with owning their own Quality Efforts.
-  * Mentoring other team members and devs starting their "QE ownership" efforts.
+  * Mentoring other team members; reviewing test PRs for devs starting their "QE ownership" efforts.
 * Mid 2024 - Early 2025
-  * Supported new Reports project (I was brought in months after it had started)
+  * Supported new Reports project (I was brought in months after it had started, opportunity to left-shift was limited)
     * wrote tests in Gherkin, implemented using pytest-bdd, to backfill and capture requirements in testable form.
-    * did exploratory manual testing as product requirements involved.
-    * created small set of rate-limit verification load tests.
+    * did small amount of exploratory manual testing as product requirements evolved.
+    * created small set of rate-limit verification load-tests.
 * 2023-Mid 2024
   * Co-Created python framework (based on Cloud Insights work) for testing the Data Engineering team's existing Data Pipelines:
     * CDC data flowing from product DBs through Kafka into ODS and Snowflake
