@@ -16,7 +16,7 @@ Job History:
   * Mentoring other team members and devs starting their "QE ownership" efforts.
 * Mid 2024 - Early 2025
   * Supported new Reports project (I was brought in months after it had started)
-    * wrote tests in Gherkin, impltemented with pytest-bdd, to backfill and capture requirements in testable form.
+    * wrote tests in Gherkin, implemented using pytest-bdd, to backfill and capture requirements in testable form.
     * did exploratory manual testing as product requirements involved.
     * created small set of rate-limit verification load tests.
 * 2023-Mid 2024
